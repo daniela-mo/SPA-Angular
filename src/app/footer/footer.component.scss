@@ -1,0 +1,33 @@
+.footer__logo {
+  display: flex;
+}
+.footer__rodape {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: #192a3e 1px solid;
+  margin-bottom: 20px;
+  padding-bottom: 50px;
+}
+.empresa {
+  font-size: 20px;
+  color: rgb(236, 113, 31);
+
+  font-weight: 900;
+}
+.footer__redes {
+  display: flex;
+  align-items: center;
+}
+.footer__icon {
+  width: 25px;
+  height: 24px;
+  margin-left: 28px;
+}
+.footer__copyright {
+  font-size: 12px;
+  line-height: 21px;
+  color: #192a3e;
+  text-align: center;
+  padding: 10px 0 20px;
+}

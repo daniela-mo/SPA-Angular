@@ -1,0 +1,66 @@
+.angis {
+  background: #134a9e;
+  width: 100%;
+  display: flex;
+  margin-top: 40px;
+}
+.angis__content {
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+}
+.angis__coluna {
+  height: 280px;
+  width: 470px;
+  justify-content: space-between;
+  border-right: 1px solid #ffffff;
+  margin: 80px 0;
+}
+.angis__titulo {
+  color: white;
+  font-size: 32px;
+  font-weight: 600;
+  width: 245px;
+  text-align: left;
+  margin: 32px 0;
+  line-height: 48px;
+}
+.angis__paragrafo {
+  color: white;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: normal;
+  margin: 32px 0;
+  width: 343px;
+  text-align: left;
+}
+.angis__colunas {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.angis__inicie {
+  display: flex;
+  flex-direction: column;
+  margin-right: 35px;
+}
+.angis__img {
+  width: 61px;
+  height: 60px;
+}
+
+.angis__strong {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  margin: 24px 0 16px;
+}
+.angis__descricao {
+  color: white;
+  font-size: 14px;
+  line-height: 21px;
+  width: 216px;
+  height: 84px;
+}
